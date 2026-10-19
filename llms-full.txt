@@ -1,0 +1,289 @@
+# Pet Care Guide (full)
+
+---
+source: docs/overview.md
+---
+
+# Pet Care Guide — Overview
+
+> Sample documentation about caring for pets. All content is fictional placeholder text for a PoC.
+
+This guide covers the basics of choosing, feeding, and caring for common household pets.
+
+## Pets
+
+- **[Dogs](./dogs.md)** — loyal, active companions that need daily exercise.
+- **[Cats](./cats.md)** — independent pets that still need play and attention.
+- **[Small pets](./small-pets.md)** — rabbits, guinea pigs, and hamsters.
+- **[Fish](./fish.md)** — calm pets that depend on water quality.
+
+## Care topics
+
+- **[Nutrition](./nutrition.md)** — what and how much to feed.
+- **[Vaccinations](./vaccinations.md)** — the core schedule for dogs and cats.
+- **[Grooming](./grooming.md)** — brushing, bathing, and nail care.
+- **[Training](./training.md)** — positive reinforcement basics.
+- **[Health signs](./health-signs.md)** — when to call the vet.
+
+New pet owner? Start with [Choosing a pet](./choosing-a-pet.md).
+
+---
+source: docs/choosing-a-pet.md
+---
+
+# Choosing a pet
+
+Match the pet to your home, schedule, and budget.
+
+| Pet                         | Daily time   | Space needed | Typical lifespan |
+|-----------------------------|--------------|--------------|------------------|
+| [Dog](./dogs.md)            | 1–3 hours    | Medium–large | 10–15 years      |
+| [Cat](./cats.md)            | 30–60 min    | Small–medium | 12–18 years      |
+| [Rabbit](./small-pets.md)   | 1–2 hours    | Medium       | 8–12 years       |
+| [Hamster](./small-pets.md)  | 15–30 min    | Small        | 2–3 years        |
+| [Fish](./fish.md)           | 10–15 min    | Small        | Varies           |
+
+## Questions to ask yourself
+
+1. Who will handle [feeding](./nutrition.md) and [grooming](./grooming.md) every day?
+2. Can you afford [vaccinations](./vaccinations.md) and vet visits?
+3. Do you have time for [training](./training.md)?
+
+Back to [Overview](./overview.md)
+
+---
+source: docs/dogs.md
+---
+
+# Dogs
+
+Dogs are social animals that need daily exercise, structure, and companionship.
+
+## Exercise needs by size
+
+| Size   | Example breeds              | Daily exercise |
+|--------|-----------------------------|----------------|
+| Small  | Chihuahua, Pug              | 30–60 min      |
+| Medium | Beagle, Border Collie       | 1–2 hours      |
+| Large  | Labrador, German Shepherd   | 1–2 hours      |
+
+## Essentials
+
+- Feed a complete diet — see [Nutrition](./nutrition.md).
+- Keep [vaccinations](./vaccinations.md) up to date, including rabies.
+- Start [training](./training.md) early with positive reinforcement.
+- Brush regularly — see [Grooming](./grooming.md).
+
+Watch for the warning signs in [Health signs](./health-signs.md).
+
+Compare with [Cats](./cats.md) · Back to [Overview](./overview.md)
+
+---
+source: docs/cats.md
+---
+
+# Cats
+
+Cats are independent but still need daily play, a clean litter box, and regular vet care.
+
+## Essentials
+
+- **Litter box:** one per cat plus one extra, scooped daily.
+- **Play:** two 10–15 minute sessions a day to prevent boredom.
+- **Scratching:** provide a sturdy scratching post.
+- **Diet:** cats are obligate carnivores — see [Nutrition](./nutrition.md).
+- **Vaccines:** see the cat schedule in [Vaccinations](./vaccinations.md).
+
+## Indoor vs outdoor
+
+Indoor cats generally live longer and avoid traffic, fights, and parasites.
+
+Long-haired breeds need more [grooming](./grooming.md). Changes in litter habits are a key item in [Health signs](./health-signs.md).
+
+Compare with [Dogs](./dogs.md) · Back to [Overview](./overview.md)
+
+---
+source: docs/small-pets.md
+---
+
+# Small pets
+
+Rabbits, guinea pigs, and hamsters are good options for smaller homes, but each has specific needs.
+
+| Pet        | Diet basics                         | Social?               |
+|------------|-------------------------------------|-----------------------|
+| Rabbit     | Unlimited hay, leafy greens, pellets | Yes — keep in pairs   |
+| Guinea pig | Hay, vitamin C–rich vegetables       | Yes — keep in pairs   |
+| Hamster    | Seed mix, small amounts of veggies   | No — keep alone       |
+
+## Tips
+
+- Rabbits and guinea pigs need hay at all times for teeth and digestion — see [Nutrition](./nutrition.md).
+- Nails need trimming every 4–6 weeks — see [Grooming](./grooming.md).
+- Rabbits can be litter-trained — see [Training](./training.md).
+- Small pets hide illness; check [Health signs](./health-signs.md) often.
+
+Back to [Choosing a pet](./choosing-a-pet.md) · [Overview](./overview.md)
+
+---
+source: docs/fish.md
+---
+
+# Fish
+
+Fish are low-maintenance day to day, but their health depends on stable water.
+
+## Tank setup
+
+1. Choose the largest tank you can — bigger tanks stay stable more easily.
+2. Add a filter and heater (for tropical fish).
+3. **Cycle the tank** for 4–6 weeks before adding fish.
+4. Add a few fish at a time.
+
+## Water care
+
+| Task                | How often   |
+|---------------------|-------------|
+| Test water          | Weekly      |
+| Partial water change (20–25%) | Weekly |
+| Rinse filter media in tank water | Monthly |
+
+Feed only what they eat in two minutes — see [Nutrition](./nutrition.md). Cloudy eyes, clamped fins, or gasping at the surface are listed in [Health signs](./health-signs.md).
+
+Back to [Choosing a pet](./choosing-a-pet.md) · [Overview](./overview.md)
+
+---
+source: docs/nutrition.md
+---
+
+# Nutrition
+
+Good nutrition is the foundation of pet health.
+
+## General rules
+
+- Feed a complete, balanced diet made for the species and life stage.
+- Measure portions; obesity is the most common nutrition problem.
+- Fresh water must always be available.
+- Change foods gradually over 7–10 days.
+
+## By pet
+
+| Pet                         | Key point                                          |
+|-----------------------------|----------------------------------------------------|
+| [Dogs](./dogs.md)           | Two meals a day for adults; adjust for activity    |
+| [Cats](./cats.md)           | Need animal protein and taurine; wet food helps hydration |
+| [Small pets](./small-pets.md) | Hay should be most of the diet for rabbits and guinea pigs |
+| [Fish](./fish.md)           | Small amounts once or twice a day                  |
+
+## Toxic foods
+
+Never feed chocolate, grapes, raisins, onions, garlic, xylitol, or alcohol. If your pet eats one, see [Health signs](./health-signs.md) and call your vet.
+
+Back to [Overview](./overview.md)
+
+---
+source: docs/vaccinations.md
+---
+
+# Vaccinations
+
+Vaccines protect pets from serious diseases. Your vet will tailor the schedule; this is a general example.
+
+## Dogs
+
+| Age          | Vaccines                                   |
+|--------------|--------------------------------------------|
+| 6–8 weeks    | Distemper, parvovirus                      |
+| 10–12 weeks  | DHPP (distemper, hepatitis, parainfluenza, parvo) |
+| 12–16 weeks  | Rabies, DHPP booster                       |
+| Yearly / every 3 years | Boosters as advised              |
+
+## Cats
+
+| Age          | Vaccines                                   |
+|--------------|--------------------------------------------|
+| 6–8 weeks    | FVRCP                                      |
+| 10–12 weeks  | FVRCP booster, FeLV (if at risk)           |
+| 12–16 weeks  | Rabies, FVRCP booster                      |
+
+Mild tiredness after a vaccine is normal; swelling of the face or trouble breathing is an emergency — see [Health signs](./health-signs.md).
+
+See also: [Dogs](./dogs.md) · [Cats](./cats.md) · [Overview](./overview.md)
+
+---
+source: docs/grooming.md
+---
+
+# Grooming
+
+Regular grooming keeps coats healthy and lets you spot problems early.
+
+| Task          | Dogs                  | Cats                   | Small pets          |
+|---------------|-----------------------|------------------------|---------------------|
+| Brushing      | 1–7× per week by coat | 1–2× per week (daily for long hair) | Weekly; daily when shedding |
+| Bathing       | Every 1–3 months      | Rarely                 | Avoid (spot clean)  |
+| Nail trimming | Every 3–4 weeks       | Every 2–3 weeks        | Every 4–6 weeks     |
+| Teeth         | Brush several times a week | Brush if tolerated | Hay wears teeth down |
+
+## Tips
+
+- Make grooming positive with treats — see [Training](./training.md).
+- While brushing, check for lumps, ticks, and sore spots — see [Health signs](./health-signs.md).
+
+Pet guides: [Dogs](./dogs.md) · [Cats](./cats.md) · [Small pets](./small-pets.md)
+
+---
+source: docs/training.md
+---
+
+# Training
+
+Positive reinforcement — rewarding the behavior you want — is the most effective and humane training method.
+
+## Basics
+
+1. **Reward right away** (within 1–2 seconds) with a treat or praise.
+2. **Keep sessions short:** 5–10 minutes, a few times a day.
+3. **Be consistent:** everyone in the house uses the same words.
+4. **Never punish** — it creates fear and makes training harder.
+
+## First commands for dogs
+
+`sit`, `down`, `stay`, `come`, and `leave it`. See [Dogs](./dogs.md).
+
+## Other pets
+
+- [Cats](./cats.md) can learn to use a scratching post and come when called.
+- Rabbits can be litter-trained — see [Small pets](./small-pets.md).
+
+Use small, healthy treats and count them in the daily [nutrition](./nutrition.md) budget.
+
+Back to [Overview](./overview.md)
+
+---
+source: docs/health-signs.md
+---
+
+# Health signs
+
+Know what's normal for your pet so you notice changes early.
+
+## Call the vet today if you see
+
+- Not eating for more than 24 hours (12 hours for [small pets](./small-pets.md)).
+- Vomiting or diarrhea lasting more than a day.
+- Changes in litter box use or straining to pee — urgent for male [cats](./cats.md).
+- Limping, lumps, or sudden weight change.
+
+## Emergency — go now
+
+- Trouble breathing or a swollen face (possible [vaccine](./vaccinations.md) reaction).
+- Eating something toxic — see the list in [Nutrition](./nutrition.md).
+- Collapse, seizures, or a swollen, hard belly in [dogs](./dogs.md).
+- [Fish](./fish.md) gasping at the surface (test the water right away).
+
+Regular [grooming](./grooming.md) is a good time to check for problems.
+
+Back to [Overview](./overview.md)
+

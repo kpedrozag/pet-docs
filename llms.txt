@@ -1,0 +1,23 @@
+# Pet Care Guide
+
+> Sample documentation about caring for household pets: choosing a pet, dogs, cats, small pets, fish, nutrition, vaccinations, grooming, training and health warning signs. All content is fictional placeholder text. Every page is available as raw Markdown. For the full content in one file, see https://kpedrozag.github.io/pet-docs/llms-full.txt.
+
+## Getting started
+
+- [Overview](https://kpedrozag.github.io/pet-docs/docs/overview.md): What this guide covers and how the pages fit together.
+- [Choosing a pet](https://kpedrozag.github.io/pet-docs/docs/choosing-a-pet.md): Compare pets by daily time, space and lifespan.
+
+## Pets
+
+- [Dogs](https://kpedrozag.github.io/pet-docs/docs/dogs.md): Exercise needs by size and essential dog care.
+- [Cats](https://kpedrozag.github.io/pet-docs/docs/cats.md): Litter, play, scratching and indoor vs outdoor cats.
+- [Small pets](https://kpedrozag.github.io/pet-docs/docs/small-pets.md): Rabbits, guinea pigs and hamsters.
+- [Fish](https://kpedrozag.github.io/pet-docs/docs/fish.md): Tank setup, cycling and water care.
+
+## Care
+
+- [Nutrition](https://kpedrozag.github.io/pet-docs/docs/nutrition.md): Feeding rules per pet and foods that are toxic.
+- [Vaccinations](https://kpedrozag.github.io/pet-docs/docs/vaccinations.md): Example vaccine schedules for dogs and cats.
+- [Grooming](https://kpedrozag.github.io/pet-docs/docs/grooming.md): Brushing, bathing, nails and teeth by pet type.
+- [Training](https://kpedrozag.github.io/pet-docs/docs/training.md): Positive reinforcement basics and first commands.
+- [Health signs](https://kpedrozag.github.io/pet-docs/docs/health-signs.md): When to call the vet and what counts as an emergency.
