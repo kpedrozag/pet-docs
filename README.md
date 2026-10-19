@@ -6,6 +6,7 @@ Live site: https://kpedrozag.github.io/pet-docs/
 
 | URL | What |
 |-----|------|
+| `/index.md` | Landing page (`/` redirects here) |
 | `/llms.txt` | Index of all pages with short descriptions ([llmstxt.org](https://llmstxt.org) format) |
 | `/llms-full.txt` | All pages concatenated into one file |
 | `/docs/*.md` | Each page as raw Markdown |
